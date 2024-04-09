@@ -7,9 +7,9 @@ Code examples for each language's SDK can be found within the following subrepos
 
 |     SDK    |       folder      | SDK version |
 |:----------:|:-----------------:|:-----------:|
-| Javascript | [javascript](https://github.com/k-ai-Documentation/sdk-js)       | 1          |
-| PHP        | [php](php)              | 1           |
-| Python        | [python](php)              | 1           |
+| Javascript | [javascript](https://github.com/k-ai-Documentation/sdk-js-ts)       | 1          |
+| PHP        |  [PHP](https://github.com/k-ai-Documentation/sdk-php)            | 1           |
+| Python        | [python](https://github.com/k-ai-Documentation/sdk-python)              | 1           |
 
 ## Demos
 We also provide a set of demos that demonstrate how to use the K-ai SDKs to interact with K-ai service in different languages.
@@ -17,12 +17,12 @@ We also provide a set of demos that demonstrate how to use the K-ai SDKs to inte
 #### REACT
 |     Senario    |       folder      |
 |:----------:|:-----------------:|
-| Search | [Search](vuesearchurl)|
+| Search | [Search](https://github.com/k-ai-Documentation/react-demo)|
 | Audit | [Audit](vuesearchurl)|
 
 #### VUE
 |     Senario    |       folder      |
 |:----------:|:-----------------:|
-| Search | [Search](vuesearchurl)|
+| Search | [Search](https://github.com/k-ai-Documentation/vue-demo)|
 | Audit | [Audit](vuesearchurl)|
 
