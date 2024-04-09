@@ -7,7 +7,7 @@ Code examples for each language's SDK can be found within the following subrepos
 
 |     SDK    |       folder      | SDK version |
 |:----------:|:-----------------:|:-----------:|
-| Javascript | [javascript](javascriptv)       | 1          |
+| Javascript | [javascript]([javascriptv](https://github.com/k-ai-Documentation/sdk-js))       | 1          |
 | PHP        | [php](php)              | 1           |
 | Python        | [python](php)              | 1           |
 
