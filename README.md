@@ -1,4 +1,4 @@
-# k-ai
+# K-ai
 This repository contains links of SDKs and Demos that demonstrate how to use the K-ai SDKs to interact with K-ai service.
 
 ## SDKs
