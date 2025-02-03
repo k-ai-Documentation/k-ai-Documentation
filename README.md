@@ -15,10 +15,10 @@ Code examples for each language's SDK can be found within the following subrepos
 ## Demos
 We also provide a set of demos that demonstrate how to use the K-ai SDKs to interact with K-ai service in different languages.
 
-|            Language            |                                        Search                                        |                                           Audit                                          |
-| :---------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+|            Language            |                                        Search                                        |                                           Audit                                          |                  Chatbot              |
+| :---------------------------: | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 |          **React JS**         |              [Search](https://github.com/k-ai-Documentation/react-demo)              | [Audit](https://github.com/k-ai-Documentation/react-demo-km-audit) |
-|           **Vue JS**          |               [Search](https://github.com/k-ai-Documentation/vue-demo)               |             [Audit](https://github.com/k-ai-Documentation/vue-demo-km-audit)             |
+|           **Vue JS**          |               [Search](https://github.com/k-ai-Documentation/vue-demo)               |             [Audit](https://github.com/k-ai-Documentation/vue-demo-km-audit)             |  [Chatbot](https://github.com/k-ai-Documentation/vue-demo-search)
 | **Microsoft Copilot Studio**  |            [Search](https://github.com/k-ai-Documentation/streamlit-demo)            |                                                                                          |
 |     **Streamlit (Python)**    | [Search](https://github.com/k-ai-Documentation/kai-chatbot-microsoft-copilot-studio) |                                                                                          |
 
